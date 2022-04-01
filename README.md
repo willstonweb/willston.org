@@ -1,11 +1,13 @@
-# willston.org
+# [willston.org](https://willston.org)
 
 ## Development
 
-`hugo server up`
+`hugo server`
 
-## Converting images
+## TODO
 
-We convert images to `.webp` because they weigh less than `.jpg` images and make
-them as small as possible. We use [ImageMagick](https://imagemagick.org/) with
-the following command: `convert image.jpg -resize x400 image.webp`r
+- [ ] Add email confirmation page that asks users to share the site
+- [ ] Add email subscription confirmation and ask users to check their email
+      to confirm
+- [ ] Set up blog and RSS
+- [ ] Add curriculum for anyone to follow along
