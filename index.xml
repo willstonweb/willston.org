@@ -1,29 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Donate</title><description> &lt;header>
-&lt;p>You can help us out in two ways:&lt;/p>
-&lt;p>
-&lt;a href="https://secure.squarespace.com/checkout/donate?donatePageId=62545ae65f741415ccb30a06&amp;ss_cvr=c9f1ff42-4c32-47a0-82a7-f943d0465c79%7C1649695405308%7C1649706858547%7C1649711851970%7C4&amp;ss_cvt=1649711851970&amp;websiteId=606e111c9bb1905684a7f967" target="_blank">&lt;b>Donating through Comunidad &amp;nearr;&lt;/b>&lt;/a>
-&lt;a href="#laptops">&lt;b>Donating a used laptop&lt;/b>&lt;/a>
-&lt;/p>
-&lt;/header>
-&lt;p>Comunidad is a 501(c)(3), so giving through them is tax deductible.&lt;/p>
-&lt;p>We are trying to raise &lt;mark>$3,000&lt;/mark>!&lt;/p>
-&lt;h2 id="laptops">Laptops&lt;/h2>
-&lt;p>We are looking for laptops with the following qualities:&lt;/p>
-&lt;ul>
-&lt;li>Function&lt;/li>
-&lt;li>Made in the past 10 years (2012+), but 5 years or newer is preferable (2017+)&lt;/li>
-&lt;li>Have a charging cord&lt;/li>
-&lt;/ul>
-&lt;p>Contact &lt;a href="mailto:jonathan@willston.org">jonathan@willston.org&lt;/a> to donate a computer.&lt;/p></description><link>/donate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/donate/</guid></item><item><title>Our Story</title><description>&lt;blockquote>
-&lt;img alt="quote" src="/images/quote.svg" height="80">&lt;br>"Can you teach me?"
-&lt;br>
-&lt;footer>&lt;i>– Ricardo Perez, co-founder and inspiration for Willston Web&lt;/i>&lt;/footer>
-&lt;/blockquote>
-&lt;p>Willston Web was born of friendship: when expressing his frustration with the monotony of his current job sorting clothes in retail, Ricardo asked Jonathan, "Can you teach me [web development]?" upon hearing about Jonathan's work managing websites. Jonathan had been wondering how he could make web development more accessible and share skills he had developed at his science and technology focused high school, so he was elated to hear Ricardo desired to learn web development and thought that there might be others like him. Together, they are planning the Willston Web bootcamp. Along with increasing access to personal computers and inspiring students to pursue a career in programming, they want to foster a &lt;i>web&lt;/i> of students that learn together in a community effort.&lt;/p></description><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid></item><item><title>Thanks for subscribing!</title><description>&lt;p>You should receive an email from us in your inbox momentarily asking you to
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="https://willston.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Thanks for subscribing!</title><description>&lt;p>You should receive an email from us in your inbox momentarily asking you to
 confirm your email. All you need to do is click the link to make sure you get
 emails from us in the future. Check your junk folder if you don&amp;rsquo;t see anything
 from us. Please add &lt;a href="mailto:jonathan@willston.org">jonathan@willston.org&lt;/a> to
-your contacts to ensure our emails won&amp;rsquo;t end up in your junk folder.&lt;/p></description><link>/subscribed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/subscribed/</guid></item><item><title>Your email is confirmed!</title><description>&lt;p>Thanks for confirming your email. You&amp;rsquo;ll get updates from us from now on. Please
+your contacts to ensure our emails won&amp;rsquo;t end up in your junk folder.&lt;/p></description><link>https://willston.org/subscribed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://willston.org/subscribed/</guid></item><item><title>Your email is confirmed!</title><description>&lt;p>Thanks for confirming your email. You&amp;rsquo;ll get updates from us from now on. Please
 add &lt;a href="mailto:jonathan@willston.org">jonathan@willston.org&lt;/a> to your contacts to
 ensure our emails won&amp;rsquo;t end up in your junk folder.&lt;/p>
-&lt;p>Share &lt;a href="https://willston.org">willston.org&lt;/a> with a friend if you&amp;rsquo;re so inclined!&lt;/p></description><link>/confirmed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/confirmed/</guid></item></channel></rss>
+&lt;p>Share &lt;a href="https://willston.org">willston.org&lt;/a> with a friend if you&amp;rsquo;re so inclined!&lt;/p></description><link>https://willston.org/confirmed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://willston.org/confirmed/</guid></item></channel></rss>
