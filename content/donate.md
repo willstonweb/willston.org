@@ -1,0 +1,23 @@
+---
+title: Donate
+description: Donate to Willston Web
+---
+  <header>
+    <p>You can help us out in two ways:</p>
+    <p>
+      <a href="https://secure.squarespace.com/checkout/donate?donatePageId=62545ae65f741415ccb30a06&ss_cvr=c9f1ff42-4c32-47a0-82a7-f943d0465c79%7C1649695405308%7C1649706858547%7C1649711851970%7C4&ss_cvt=1649711851970&websiteId=606e111c9bb1905684a7f967" target="_blank"><b>Donating through Comunidad &nearr;</b></a>
+      <a href="#laptops"><b>Donating a used laptop</b></a>
+    </p>
+  </header>
+  <p>Comunidad is a 501(c)(3), so giving through them is tax deductible.</p>
+  <p>We are trying to raise <mark>$3,000</mark>!</p>
+
+## Laptops
+
+We are looking for laptops with the following qualities:
+
+- Function
+- Made in the past 10 years (2012+), but 5 years or newer is preferable (2017+)
+- Have a charging cord
+
+Contact jonathan@willston.org to donate a computer.

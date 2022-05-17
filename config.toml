@@ -1,4 +1,3 @@
-baseURL = "https://willston.org"
 title = "Willston Web"
 
 [markup.goldmark.renderer]
