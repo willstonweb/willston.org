@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Donate</title><description> &lt;header>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><description>&lt;style>
+p > img {
+width: 150px;
+float: left;
+margin-right: 30px;
+margin-left: 0px;
+margin-bottom: 20px;
+}
+h3 {
+text-align: left;
+}
+h3:not(:first-of-type), img:not(:first-of-type) {
+margin-top: 150px;
+}
+@media only screen and (max-width: 600px) {
+h3:not(:first-of-type), img:not(:first-of-type) {
+margin-top: 50px;
+}
+}
+&lt;/style>
+&lt;h2 id="our-story">Our Story&lt;/h2>
+&lt;blockquote>
+&lt;img alt="quote" src="/images/quote.svg" height="80">&lt;br>"Can you teach me?"
+&lt;br>
+&lt;footer>&lt;i>– Ricardo Perez, co-founder and inspiration for Willston Web&lt;/i>&lt;/footer>
+&lt;/blockquote>
+&lt;p>Willston Web was born of friendship: when expressing his frustration with the monotony of his current job sorting clothes in retail, Ricardo asked Jonathan, "Can you teach me [web development]?" upon hearing about Jonathan's work managing websites. Jonathan had been wondering how he could make web development more accessible and share skills he had developed at his science and technology focused high school, so he was elated to hear Ricardo desired to learn web development and thought that there might be others like him. Together, they are planning the Willston Web bootcamp. Along with increasing access to personal computers and inspiring students to pursue a career in programming, they want to foster a &lt;i>web&lt;/i> of students that learn together in a community effort.&lt;/p>
+&lt;h2 id="our-team">Our Team&lt;/h2>
+&lt;h3 id="ricardo-perez">Ricardo Perez&lt;/h3>
+&lt;p>&lt;img src="/images/ricardo.jpg" alt="Ricardo picture">&lt;/p>
+&lt;p>&lt;em>&lt;strong>Co-Founder&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Ricardo is a junior at Justice High School and the catalyst for inception of
+Willston Web. He serves as a Rising Leader with
+&lt;a href="https://comunidadva.org">Comunidad&lt;/a>.&lt;/p>
+&lt;h3 id="jonathan-buchholz">Jonathan Buchholz&lt;/h3>
+&lt;p>&lt;img src="/images/jonathan.jpg" alt="Jonathan picture">&lt;/p>
+&lt;p>&lt;em>&lt;strong>Co-Founder&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Jonathan is a junior at Thomas Jefferson High School for Science and Technology.
+He has a strong background in computer science (Python and Java) from his time
+at school and taught himself web development when school shut down in 2020. You
+can find out more about Jonathan on &lt;a href="https://buchh.org">his website&lt;/a>.&lt;/p></description><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid></item><item><title>Donate</title><description> &lt;header>
 &lt;p>You can help us out in two ways:&lt;/p>
 &lt;p>
 &lt;a href="https://secure.squarespace.com/checkout/donate?donatePageId=62545ae65f741415ccb30a06&amp;ss_cvr=c9f1ff42-4c32-47a0-82a7-f943d0465c79%7C1649695405308%7C1649706858547%7C1649711851970%7C4&amp;ss_cvt=1649711851970&amp;websiteId=606e111c9bb1905684a7f967" target="_blank">&lt;b>Donating through Comunidad &amp;nearr;&lt;/b>&lt;/a>
@@ -10,12 +50,7 @@
 &lt;h2 id="laptops">Laptops&lt;/h2>
 &lt;p>We are looking for functional laptops made in the past 10 years, but 5 years or
 newer is preferable. Please fill out &lt;a href="https://forms.gle/cR3RKn4DFWZrqDfNA">our form&lt;/a> if you have a laptop you would
-like to donate.&lt;/p></description><link>/donate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/donate/</guid></item><item><title>Our Story</title><description>&lt;blockquote>
-&lt;img alt="quote" src="/images/quote.svg" height="80">&lt;br>"Can you teach me?"
-&lt;br>
-&lt;footer>&lt;i>– Ricardo Perez, co-founder and inspiration for Willston Web&lt;/i>&lt;/footer>
-&lt;/blockquote>
-&lt;p>Willston Web was born of friendship: when expressing his frustration with the monotony of his current job sorting clothes in retail, Ricardo asked Jonathan, "Can you teach me [web development]?" upon hearing about Jonathan's work managing websites. Jonathan had been wondering how he could make web development more accessible and share skills he had developed at his science and technology focused high school, so he was elated to hear Ricardo desired to learn web development and thought that there might be others like him. Together, they are planning the Willston Web bootcamp. Along with increasing access to personal computers and inspiring students to pursue a career in programming, they want to foster a &lt;i>web&lt;/i> of students that learn together in a community effort.&lt;/p></description><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid></item><item><title>Thanks for subscribing!</title><description>&lt;p>You should receive an email from us in your inbox momentarily asking you to
+like to donate.&lt;/p></description><link>/donate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/donate/</guid></item><item><title>Thanks for subscribing!</title><description>&lt;p>You should receive an email from us in your inbox momentarily asking you to
 confirm your email. All you need to do is click the link to make sure you get
 emails from us in the future. Check your junk folder if you don&amp;rsquo;t see anything
 from us. Please add &lt;a href="mailto:jonathan@willston.org">jonathan@willston.org&lt;/a> to
