@@ -2,12 +2,5 @@
 
 ## Development
 
-`hugo server`
-
-## TODO
-
-- [ ] Add email confirmation page that asks users to share the site
-- [ ] Add email subscription confirmation and ask users to check their email
-      to confirm
-- [ ] Set up blog and RSS
-- [ ] Add curriculum for anyone to follow along
+1. [Install hugo](https://gohugo.io/getting-started/installing/)
+2. Make edits and view locally: `$ hugo server`
