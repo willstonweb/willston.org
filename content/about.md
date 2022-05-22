@@ -42,7 +42,7 @@ h3:not(:first-of-type), img:not(:first-of-type) {
 
 ![Ricardo picture](/images/ricardo.jpg)
 
-_**Co-Founder**_
+_**Cofounder**_
 
 Ricardo is a junior at Justice High School and the catalyst for inception of
 Willston Web. He serves as a Rising Leader with
@@ -52,7 +52,7 @@ Willston Web. He serves as a Rising Leader with
 
 ![Jonathan picture](/images/jonathan.jpg)
 
-_**Co-Founder**_
+_**Cofounder**_
 
 Jonathan is a junior at Thomas Jefferson High School for Science and Technology.
 He has a strong background in computer science (Python and Java) from his time
