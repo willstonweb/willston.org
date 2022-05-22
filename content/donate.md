@@ -10,12 +10,12 @@ description: Donate to Willston Web
     </p>
   </header>
   <p>Comunidad is a 501(c)(3), so giving through them is tax deductible.</p>
-  <p>We are trying to raise <mark>$3,000</mark>! As of May 20, 2022, we have raised $1,975. Thank you to everyone who donated!</p>
+  <p>We are trying to raise <mark>$3,000</mark>!</p>
 
 ## Laptops
 
 We are looking for functional laptops made in the past 10 years, but 5 years or
-newer is preferable. Please fill out [our form] if you have a laptop you would
-like to donate.
+newer is preferable, donated by Friday, June 10, 2022. Please fill out [this
+form] if you have a laptop you would like to donate.
 
-[our form]: https://forms.gle/cR3RKn4DFWZrqDfNA
+[this form]: https://forms.gle/cR3RKn4DFWZrqDfNA
