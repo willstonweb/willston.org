@@ -1,4 +1,7 @@
-title = "Willston Web"
+authors = ["Jonathan Buchholz"]
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[minify]
+minifyOutput = true
