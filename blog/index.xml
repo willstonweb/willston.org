@@ -30,7 +30,7 @@ Linux. Your mileage may vary.&lt;/p>
 &lt;/ul>
 &lt;/li>
 &lt;li>Install Broadcom WiFi drivers: &lt;code>$ sudo dnf install broadcom-wl&lt;/code>&lt;/li>
-&lt;li>Restart the computer: &lt;code>sudo reboot&lt;/code>&lt;/li>
+&lt;li>Restart the computer: &lt;code>$ sudo reboot&lt;/code>&lt;/li>
 &lt;/ol>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
