@@ -205,7 +205,7 @@ code,
 samp {
     background-color: var(--color-accent);
     border-radius: var(--border-radius);
-    color: var(--color-text);
+    color: #fff;
     display: inline-block;
     margin: 0 0.1rem;
     padding: 0 0.5rem;
@@ -240,6 +240,12 @@ h5,
 h6 {
     text-align: center;
     line-height: var(--line-height);
+}
+
+h1 small {
+    display: block;
+    font-size: 1rem;
+    font-weight: normal;
 }
 
 mark {
