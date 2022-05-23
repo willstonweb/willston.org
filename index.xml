@@ -5,7 +5,7 @@ the past, where the operating system does not utilize the WiFi card in the
 computer after the initial installation. Every time I need to install drivers to
 make Broadcom WiFi cards work on Fedora, I have trouble finding up to date
 information, which is why I writing down the steps here—both for future
-is reference and if anyone else runs into the same issue.&lt;/p>
+is reference and in case someone else runs into the same issue.&lt;/p>
 &lt;p>Before I continue, here are the reasons why we are installing Fedora Linux on
 donated machines:&lt;/p>
 &lt;ul>
