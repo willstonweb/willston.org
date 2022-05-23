@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+<body>
+    <main>
+    <header>
+    {{ partial "nav.html" . }}
+    <h1>
+        {{ $.Title }}
+        <small>{{ range .Param "authors" }}{{ . }}{{ end }} on <b>{{.Date.Format "January 2, 2006"}}</b></small>
+    </h1>
+    </header>
+    <article>
+    {{.Content}}
+    </article>
+    </main>
+    {{ partial "footer.html" . }}
+</body>
+</html>

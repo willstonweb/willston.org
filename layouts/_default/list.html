@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+<body>
+    <main>
+    <header>
+    {{ partial "nav.html" . }}
+    <h1>{{ $.Title }}</h1>
+    </header>
+    <article>
+    {{ range .Pages }}
+    <p>{{.Date.Format "January 2, 2006"}}</p>
+    <p><a href="{{.RelPermalink}}">{{.Title}}</a>: {{ .Description }}</p>
+    {{ end }}
+    </article>
+    </main>
+    {{ partial "footer.html" . }}
+</body>
+</html>

@@ -19,7 +19,7 @@ jobs:
       - name: Build site
         run: |
           make hugo
-          # cp public/posts/index.xml public/rss.xml
+          cp public/blog/index.xml public/rss.xml
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
