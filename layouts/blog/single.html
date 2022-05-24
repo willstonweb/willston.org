@@ -5,7 +5,7 @@
     {{ partial "nav.html" . }}
     <h1>
         {{ $.Title }}
-        <small>by {{ range .Param "authors" }}{{ . }}{{ end }} on <b>{{.Date.Format "January 2, 2006"}}</b></small>
+        <small>by {{ .Param "author" }} on <b>{{.Date.Format "January 2, 2006"}}</b></small>
     </h1>
     </header>
     <article>
