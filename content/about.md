@@ -56,5 +56,6 @@ _**Cofounder**_
 
 Jonathan is a junior at Thomas Jefferson High School for Science and Technology.
 He has a strong background in computer science (Python and Java) from his time
-at school and taught himself web development when school shut down in 2020. You
-can find out more about Jonathan on [his website](https://buchh.org).
+at school and taught himself web development when school shut down in 2020,
+which gave him the skills to work his first job. You can find out more about
+Jonathan on [his website](https://buchh.org).
