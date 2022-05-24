@@ -1,7 +1,7 @@
 ---
 title: Broadcom WiFi Driver Issues on Fedora Linux
 date: 2022-05-22
-description: How I Installed Broadcom WiFi Drivers on Fedora Linux
+description: How I installed Broadcom WiFi drivers on Fedora Linux
 authors: ["Jonathan Buchholz"]
 url: fedora-broadcom
 ---

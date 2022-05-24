@@ -7,8 +7,8 @@
     </header>
     <article>
     {{ range .Pages }}
-    <p>{{.Date.Format "January 2, 2006"}}</p>
-    <p><a href="{{.RelPermalink}}">{{.Title}}</a>: {{ .Description }}</p>
+    <p style="margin-bottom: 0">{{.Date.Format "January 2, 2006"}}</p>
+    <p style="margin-top: 0"><a href="{{.RelPermalink}}">{{.Title}}</a>: {{ .Description }}</p>
     {{ end }}
     </article>
     </main>
