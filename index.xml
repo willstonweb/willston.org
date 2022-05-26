@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Broadcom WiFi Driver Issues on Fedora Linux</title><description>&lt;p>Today, we received our first computer donation! While I was installing Fedora 36
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Making GNOME Look a Little More Like Windows</title><description>&lt;p>There are a couple of modifications that we make to GNOME to make the transition
+from Windows to Linux a little easier for our students. They are pretty simple:
+adding a couple of additional buttons to the window titlebar and combining the
+application launcher and system tray to make the taskbar more similar to that
+found in Windows. Below are screenshots of before and after the tweaks. Look
+carefully for the aforementioned changes:&lt;/p>
+&lt;figure>
+&lt;img alt="Before Dash to Panel" src="/images/2022-05-25-before.png">
+&lt;figcaption>Stock GNOME 42&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+&lt;img alt="After Dash to Panel" src="/images/2022-05-25-after.png">
+&lt;figcaption>After changes. Notice the additional buttons in the titlebar and
+the addition of a Windows-like taskbar.&lt;/figcaption>
+&lt;/figure>
+&lt;p>As you can see, the changes are subtle, but can make a Windows user feel a lot
+more at home using the GNOME desktop environment. Here are the steps to
+replicate these changes:&lt;/p>
+&lt;h2 id="update-all-packages">Update all packages&lt;/h2>
+&lt;p>&lt;code>$ sudo dnf update&lt;/code>&lt;/p>
+&lt;h2 id="install-gnome-tweaks">Install GNOME Tweaks&lt;/h2>
+&lt;ol>
+&lt;li>&lt;code>$ sudo dnf install gnome-tweaks&lt;/code>&lt;/li>
+&lt;li>Open GNOME Tweaks&lt;/li>
+&lt;li>Navigate to: Window Titlebars &amp;gt; Titlebar Buttons&lt;/li>
+&lt;li>Turn the following settings on:
+&lt;ul>
+&lt;li>Maximize&lt;/li>
+&lt;li>Minimize&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="install-gnome-extensions">Install GNOME Extensions&lt;/h2>
+&lt;ol>
+&lt;li>Open the GNOME Software application&lt;/li>
+&lt;li>Search for &lt;code>Extensions&lt;/code>&lt;/li>
+&lt;li>Click on the result named &lt;code>Extensions&lt;/code>&lt;/li>
+&lt;li>Change &lt;code>Fedora Linux (RPM)&lt;/code> to &lt;code>Fedora Linux (Flatpak)&lt;/code> on the GNOME
+Extensions page&lt;/li>
+&lt;li>Visit the &lt;a href="https://extensions.gnome.org/extension/1160/dash-to-panel/" target="_blank">Dash to Panel&lt;/a> page&lt;/li>
+&lt;li>Install the GNOME Shell integration by selecting &lt;code>Click here to install the browser extension&lt;/code> and following the subsequent instructions&lt;/li>
+&lt;li>Refresh the page&lt;/li>
+&lt;li>Switch the toggle labeled &lt;code>OFF&lt;/code> to &lt;code>ON&lt;/code>&lt;/li>
+&lt;li>Select &lt;code>Install&lt;/code>&lt;/li>
+&lt;/ol></description><link>/gnome-like-windows/</link><pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate><guid>/gnome-like-windows/</guid></item><item><title>Broadcom WiFi Driver Issues on Fedora Linux</title><description>&lt;p>Today, we received our first computer donation! While I was installing Fedora 36
 on a 2014 Lenovo IdeaPad, I noticed that WiFi drivers did not come installed. I
 have run into issues with Broadcom brand WiFi cards while installing Linux in
 the past, where the operating system does not utilize the WiFi card in the
