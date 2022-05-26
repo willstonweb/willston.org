@@ -369,7 +369,13 @@ figure {
 }
 
 figure img {
-    max-width: 300px;
+    max-width: 75%;
+}
+
+figcaption {
+    margin-bottom: 1em;
+    text-align: center;
+    font-style: italic;
 }
 
 /* Forms */
@@ -504,4 +510,12 @@ blockquote footer {
     font-size: small;
     line-height: var(--line-height);
     padding: 1.5rem 0;
+}
+
+/* Mobile */
+
+@media screen and (max-width:750px) {
+    figure img {
+        max-width: 100%;
+    }
 }
