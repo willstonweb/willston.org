@@ -43,6 +43,7 @@
 /* Layout */
 img {
     margin: auto;
+    height: auto;
     display: block;
 }
 
