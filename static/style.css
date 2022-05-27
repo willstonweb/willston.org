@@ -43,6 +43,7 @@
 /* Layout */
 img {
     margin: auto;
+    height: auto;
     display: block;
 }
 
@@ -515,7 +516,21 @@ blockquote footer {
 /* Mobile */
 
 @media screen and (max-width:750px) {
+    nav img {
+        display: none;
+    }
+    nav {
+        justify-content: left;
+    }
     figure img {
         max-width: 100%;
+    }
+}
+
+/* Specifically not mobile */
+
+@media screen and (min-width:750px) {
+    nav li:first-of-type {
+        display: none;
     }
 }
