@@ -1,4 +1,95 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Making GNOME Look a Little More Like Windows</title><description>&lt;p>There are a couple of modifications that we make to GNOME to make the transition
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>The Lenovo IdeaPad 1</title><description>&lt;p>Over the past number of years, Chromebooks have become quite popular, with &lt;a href="https://www.blog.google/outreach-initiatives/education/2020-chromebooks/" target="_blank">40
+million currently used in education&lt;/a>. The three main reasons people use
+Chromebooks are cost, simplicity, and it&amp;rsquo;s provided by their school. These are
+all valid reasons for using a Chromebook, but I would like to break each one
+down and provide an example of a comparable laptop that isn&amp;rsquo;t a Chromebook and
+can better serve as a phenomenal device for someone looking to get into
+programming.&lt;/p>
+&lt;h2 id="cost">Cost&lt;/h2>
+&lt;p>This reason why people purchase Chromebooks makes a lot of sense. They are a lot
+cheaper than many other laptops available. For the vast majority of people, cost
+determines is the most important factor when purchasing a computing device.
+Google did a great job lowering the barrier to entry to computers. A decent
+Chromebook can now be purchased for ~$100-250. Chrome OS can run on devices that
+would have a hard time running Windows or cannot even run Windows because they
+have an ARM processor. While ARM processors are really efficient, adoption has
+not gotten nearly as close to that of x86_64 processors yet, so there is still a
+lot of software that works well on on x86_64 processors, but not on ARM.
+Luckily, there are x86_64 laptops that are in the same price range as
+Chromebooks (hint: the Lenovo IdeaPad 1).&lt;/p>
+&lt;h2 id="simplicity">Simplicity&lt;/h2>
+&lt;p>Chrome OS is essentially a glorified web browser with the ability to save a few
+files to the hard drive&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>, which isn&amp;rsquo;t necessarily a bad thing. This is all
+some people —if you just require the ability to check email and visit a few
+websites in an operating system, you don&amp;rsquo;t need anything more than Chrome OS;
+however, programmers need a little more freedom with their operating system that
+what Chrome OS provides. For users that are not so technically savvy, a
+Chromebook that comes with Chrome OS pre-installed is really the only option as
+Linux is still too difficult for the average person to install, but I urge those
+who would like to get into programming to take the time to learn how to flash a
+Linux distribution to USB stick and install a Linux themselves&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>. The &lt;a href="https://getfedora.org/en/workstation/download/" target="_blank">Fedora
+Media Writer&lt;/a> makes this super simple, but it&amp;rsquo;s not much more difficult to
+download the &lt;a href="https://linuxmint.com/" target="_blank">Linux Mint&lt;/a>, &lt;a href="https://ubuntu.com/desktop" target="_blank">Ubuntu&lt;/a>, or any other Linux distribution&amp;rsquo;s &lt;code>.iso&lt;/code>
+and flash the USB stick yourself using a tool like &lt;a href="https://balenaetcher.net/" target="_blank">Balena Etcher&lt;/a>.&lt;/p>
+&lt;h2 id="school">School&lt;/h2>
+&lt;p>With strong Google Workspace integration, it is no surprise that many schools
+opt for Chromebooks when providing laptops for students. When you are given a
+computer from school, there is not much you can do, but be grateful that your
+school system provided you with a laptop at all. Chromebooks, Chrome OS, and
+Google Workspace are phenomenal for collaborating with others, turning in
+assignments, and making presentations, but are not so optimized for programming.
+If schools want to make it easy for their students to write real code, I urge
+them to consider laptops and operating systems that are conducive to programming
+(meaning you don&amp;rsquo;t have to jump through hoops to get a development environment
+working). I understand that this isn&amp;rsquo;t always possible because schools have to
+keep security top of mind and can&amp;rsquo;t really have students installing whatever
+software they please. Unfortunately, this means that students with their own
+personal computers are able to set up a development environment and start
+programming, but those who are dependent on the school for computer access are
+limited by the tools their school provides&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>. There are no winners in this
+situation.&lt;/p>
+&lt;h2 id="the-ideapad-1">The IdeaPad 1&lt;/h2>
+&lt;p>We were fortunate to receive the generous donation of two brand new &lt;a href="https://www.amazon.com/Lenovo-IdeaPad-Processor-Graphics-81VU00D1US/dp/B09BG85LRV" target="_blank">14-inch
+Lenovo IdeaPad 1 laptops&lt;/a>, which at time of writing, cost ~$245. These laptops
+come with Windows installed, so if you are a Windows user, this is a great
+Chromebook-priced Windows machine. For others, this laptop could be your entry
+to Linux and programming. Linux works great on the IdeaPad 1–all necessary
+drivers are in the Linux kernel, so everything including WiFi and the webcam
+work out-of-the-box and it has a x86_64 processor, so virtually all Linux
+software works on this machine. The two main downsides of this laptop are that
+there are no USB-C ports and there is limited storage (64GB), but the storage is
+comparable to Chromebooks and could be expanded with the MicroSD card slot. The
+keyboard is one of the best I&amp;rsquo;ve used on a laptop and running GNOME 42 in Fedora
+36 feels extremely snappy. There is very little to complain about.&lt;/p>
+&lt;p>My reason for writing this isn&amp;rsquo;t to say that Chromebooks are bad or shouldn&amp;rsquo;t be
+purchased, but that there are arguably better options for people looking to
+program on their new device. The Lenovo IdeaPad 1 is not the only one of its
+kind either—it&amp;rsquo;s just an option. Do your own research before purchasing a new
+laptop. I am really happy with this one and am excited to see what our students
+think of these new machines!&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>Technically, most Chromebooks have eMMC, but &amp;ldquo;hard drive&amp;rdquo; gets the point
+across better.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>Yes, I know you can &lt;a href="https://sites.google.com/a/chromium.org/dev/chromium-os/chrome-os-systems-supporting-linux" target="_blank">install Linux on select Chromebooks&lt;/a>,
+if you&amp;rsquo;re going to install Linux inside of Chrome OS, why not just install Linux
+on the entire operating system. It&amp;rsquo;s less of a headache and if you purchase a
+device with x86_64 architecture, you won&amp;rsquo;t run into software compatibility with
+ARM-based systems.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>At my school, my computer science teacher had to cancel an assignment
+because not every student could install the &lt;code>pomegranate&lt;/code> library in Python.
+Not every student that used a school computer had the same errors and it was
+difficult to figure out what happened because the Windows Command Prompt was
+blocked from opening.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description><link>/ideapad/</link><pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate><guid>/ideapad/</guid></item><item><title>Making GNOME Look a Little More Like Windows</title><description>&lt;p>There are a couple of modifications that we make to GNOME to make the transition
 from Windows to Linux a little easier for our students. They are pretty simple:
 adding a couple of additional buttons to the window titlebar and combining the
 application launcher and system tray to make the taskbar more similar to that
