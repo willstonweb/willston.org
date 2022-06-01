@@ -4,7 +4,7 @@
     <header>
     {{ partial "nav.html" . }}
     <h1>
-        {{ $.Title }}
+        {{ $.Title }}: <span>{{ $.Description }}</span>
         <small>by {{ .Param "author" }} on <b>{{.Date.Format "January 2, 2006"}}</b></small>
     </h1>
     </header>

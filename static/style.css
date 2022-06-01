@@ -72,6 +72,11 @@ main {
     padding: 2rem 1rem;
 }
 
+article {
+    max-width: 70ch;
+    margin: auto;
+}
+
 hr {
     background-color: var(--color-bg-secondary);
     border: none;
@@ -252,6 +257,10 @@ article h6 {
     text-align: left;
 }
 
+h1 span {
+    font-weight: normal;
+}
+
 h1 small {
     display: block;
     font-size: 1rem;
@@ -302,7 +311,6 @@ sup {
 /* Links */
 a {
     color: var(--color-link);
-    display: inline-block;
     font-weight: bold;
 }
 

@@ -12,6 +12,14 @@ p > img {
   margin-bottom: 20px;
 }
 
+h1 {
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-top: 0;
+}
+
 h3 {
   text-align: left;
 }
@@ -30,7 +38,7 @@ h3:not(:first-of-type), img:not(:first-of-type) {
 ## Our Story
 
 <blockquote>
-  <img alt="quote" src="/images/quote.svg" height="80"><br>"Can you teach me?"
+  <img alt="quote" src="/images/quote.svg" width="80"><br>"Can you teach me?"
   <br>
   <footer><i>– Ricardo Perez, co-founder and inspiration for Willston Web</i></footer>
 </blockquote>
