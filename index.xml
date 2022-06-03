@@ -121,13 +121,8 @@ replicate these changes:&lt;/p>
 &lt;/ul>
 &lt;/li>
 &lt;/ol>
-&lt;h2 id="install-gnome-extensions">Install GNOME Extensions&lt;/h2>
+&lt;h2 id="install-dash-to-panel">Install Dash to Panel&lt;/h2>
 &lt;ol>
-&lt;li>Open the GNOME Software application&lt;/li>
-&lt;li>Search for &lt;code>Extensions&lt;/code>&lt;/li>
-&lt;li>Click on the result named &lt;code>Extensions&lt;/code>&lt;/li>
-&lt;li>Change &lt;code>Fedora Linux (RPM)&lt;/code> to &lt;code>Fedora Linux (Flatpak)&lt;/code> on the GNOME
-Extensions page&lt;/li>
 &lt;li>Visit the &lt;a href="https://extensions.gnome.org/extension/1160/dash-to-panel/" target="_blank">Dash to Panel&lt;/a> page&lt;/li>
 &lt;li>Install the GNOME Shell integration by selecting &lt;code>Click here to install the browser extension&lt;/code> and following the subsequent instructions&lt;/li>
 &lt;li>Refresh the page&lt;/li>
