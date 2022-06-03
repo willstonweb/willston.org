@@ -41,16 +41,11 @@ replicate these changes:
     - Maximize
     - Minimize
 
-## Install GNOME Extensions
+## Install Dash to Panel
 
-1. Open the GNOME Software application
-2. Search for `Extensions`
-3. Click on the result named `Extensions`
-4. Change `Fedora Linux (RPM)` to `Fedora Linux (Flatpak)` on the GNOME
-   Extensions page
-5. Visit the [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) page
-6. Install the GNOME Shell integration by selecting `Click here to install the
+1. Visit the [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) page
+2. Install the GNOME Shell integration by selecting `Click here to install the
    browser extension` and following the subsequent instructions
-7. Refresh the page
-8. Switch the toggle labeled `OFF` to `ON`
-9. Select `Install`
+3. Refresh the page
+4. Switch the toggle labeled `OFF` to `ON`
+5. Select `Install`
