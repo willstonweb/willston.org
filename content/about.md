@@ -25,10 +25,10 @@ h3 {
 }
 
 h3:not(:first-of-type), img:not(:first-of-type) {
-  margin-top: 150px;
+  margin-top: 25px;
 }
 
-@media only screen and (max-width: 600px) {
+[@media](@media) only screen and (max-width: 600px) {
   h3:not(:first-of-type), img:not(:first-of-type) {
     margin-top: 50px;
   }
@@ -53,10 +53,14 @@ h3:not(:first-of-type), img:not(:first-of-type) {
 _**Cofounder**_
 
 Ricardo is a junior at Justice High School and the catalyst for inception of
-Willston Web. He serves as a Rising Leader with
-[Comunidad](https://comunidadva.org).
+Willston Web. He serves as a Rising Leader with [Comunidad] and is eager to
+learn the basics of web development. He sees Willston Web as a great place to
+learn how to "to make money in your space, at home, while you take care of your
+brothers or sisters."
 
-### Jonathan Buchholz
+[Comunidad]: https://comunidadva.org
+
+<h3 style="margin-top: 100px">Jonathan Buchholz</h3>
 
 ![Jonathan picture](/images/jonathan.jpg)
 
@@ -66,4 +70,20 @@ Jonathan is a junior at Thomas Jefferson High School for Science and Technology.
 He has a strong background in computer science (Python and Java) from his time
 at school and taught himself web development when school shut down in 2020,
 which gave him the skills to work his first job. You can find out more about
-Jonathan on [his website](https://buchh.org).
+Jonathan on [his website].
+
+[his website]: https://buchh.org
+
+### Catherine Buchholz
+
+![Catherine picture](/images/catherine.jpg)
+
+_**Lead Designer**_
+
+Catherine is an 8th grader at Mary Ellen Henderson Middle School. She has an eye
+for beautiful design and made with Willston Web logo. If you like our YouTube
+thumbnails or are interested in learning more about her work, visit [her website]!
+She does commission pieces, but her work for Willston Web is pro
+bono.
+
+[her website]: https://catherinebuchholz.com
