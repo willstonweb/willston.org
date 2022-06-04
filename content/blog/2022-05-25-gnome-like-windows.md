@@ -1,14 +1,14 @@
 ---
-title: Making GNOME Look a Little More Like Windows
+title: Making Fedora Linux Look a Little More Like Windows
 date: 2022-05-25
 description: Using GNOME Tweaks and GNOME Shell Extensions With the Dash to Panel Plugin
 author: Jonathan Buchholz
 url: gnome-like-windows
 ---
 
-There are a couple of modifications that we make to GNOME to make the transition
-from Windows to Linux a little easier for our students. They are pretty simple:
-adding a couple of additional buttons to the window titlebar and combining the
+There are a few simple modification that you can make to stock GNOME to make the
+transition from Windows to Linux a little easier. They are pretty simple: adding
+a couple of additional buttons to the window titlebar and combining the
 application launcher and system tray to make the taskbar more similar to that
 found in Windows. Below are screenshots of before and after the tweaks. Look
 carefully for the aforementioned changes:
@@ -26,7 +26,7 @@ carefully for the aforementioned changes:
 
 As you can see, the changes are subtle, but can make a Windows user feel a lot
 more at home using the GNOME desktop environment. Here are the steps to
-replicate these changes:
+replicate these changes on Fedora:
 
 ## Update all packages
 
