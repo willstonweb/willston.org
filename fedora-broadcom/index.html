@@ -1,20 +1,8 @@
 <!doctype html><html lang=en><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Broadcom WiFi Driver Issues on Fedora Linux | Willston Web</title><meta name=description content="How I installed Broadcom WiFi drivers on Fedora Linux"><link rel=alternate type=application/rss+xml title="Willston Web" href=/rss.xml><link rel=stylesheet href=/style.css><script async defer data-website-id=65c9c691-3f9d-4aa6-bc08-574c2005d978 src=https://umami.buchh.cloud/script.js data-domains=willston.org></script></head><body><main><header><nav><a href=/><img src=/images/logo.png alt="Willston Web Logo" width=300></a><ul><li><a href=/>Home</a></li><li><a href=/donate>Donate</a></li><li><a href=/about>About</a></li><li><a href=/blog>Blog</a></li><li><a href=/press>Press</a></li><li><a href=/rss.xml>RSS</a></li></ul></nav><h1>Broadcom WiFi Driver Issues on Fedora Linux: <span>How I installed Broadcom WiFi drivers on Fedora Linux</span>
-<small>by Jonathan Buchholz on <b>May 22, 2022</b></small></h1></header><article><p>Today, we received our first computer donation! While I was installing Fedora 36
-on a 2014 Lenovo IdeaPad, I noticed that WiFi drivers did not come installed. I
-have run into issues with Broadcom brand WiFi cards while installing Linux in
-the past, where the operating system does not utilize the WiFi card in the
-computer after the initial installation. Every time I need to install drivers to
-make Broadcom WiFi cards work on Fedora, I have trouble finding up to date
-information, which is why I writing down the steps here—both for future
-is reference and in case someone else runs into the same issue.</p><p>Before I continue, here are the reasons why we are installing Fedora Linux on
-donated machines:</p><ul><li>We anticipate donated computers to be older (this one was from 2014), so
-installing Linux will make make them feel snappier</li><li>I am only familiar setting up development environments on Unix-like operating
-systems</li><li>Using Linux will help students become familiar with the commands needed to run
-a server and could help them get started with sysadmin work</li><li>Fedora seems to be the best Linux distribution for new users because it is
-stable without being so bleeding edge that packages break<sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup></li></ul><h2 id=installing-broadcom-wifi-drivers-on-fedora-linux>Installing Broadcom WiFi Drivers on Fedora Linux</h2><p>Note: I used the following steps to install the <code>BCM4352</code> WiFi driver on Fedora
+<small>by Jonathan Buchholz on <b>May 22, 2022</b></small></h1></header><article><p>Broadcom brand WiFi drivers are notorious for not working by default on Linux.
+Every time I need to install drivers to make Broadcom WiFi cards work on Fedora
+Linux, I have trouble finding up to date information, which is why I writing
+down the steps here—both for future is reference and in case someone else runs
+into the same issue.</p><h2 id=installing-broadcom-wifi-drivers-on-fedora-linux>Installing Broadcom WiFi Drivers on Fedora Linux</h2><p>Note: I used the following steps to install the <code>BCM4352</code> WiFi driver on Fedora
 36, but this should work for other Broadcom WiFi cards and versions of Fedora
-Linux. Your mileage may vary.</p><ol><li>Update packages: <code>$ sudo dnf update</code></li><li><a href=https://docs.fedoraproject.org/en-US/quick-docs/setup_rpmfusion/ target=_blank>Enable RPM Fusion repositories</a><ul><li>Make sure to install both free and nonfree repositories</li></ul></li><li>Install Broadcom WiFi drivers: <code>$ sudo dnf install broadcom-wl</code></li><li>Restart the computer: <code>$ sudo reboot</code></li></ol><div class=footnotes role=doc-endnotes><hr><ol><li id=fn:1><p>Initially, I was planning on using Linux Mint because the Cinnamon desktop
-environment is very similar to Windows and it comes with a graphical driver
-manager, but because I had issues installing the <code>BCM4352</code> WiFi driver with the
-built-in driver manager (it said the driver was installed, but WiFi did not
-work), I opted for Fedora Linux.&#160;<a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li></ol></div></article></main><hr><footer><small>Made with ♡ for the open web by <a href=https://buchh.org target=_blank>Jonathan Buchholz</a>. This website's source code is on <a href=https://github.com/willstonweb/willston.org target=_blank>GitHub</a>.</small></footer></body></html>
+Linux. Your mileage may vary.</p><ol><li>Update packages: <code>$ sudo dnf update</code></li><li><a href=https://docs.fedoraproject.org/en-US/quick-docs/setup_rpmfusion/ target=_blank>Enable RPM Fusion repositories</a><ul><li>Make sure to install both free and nonfree repositories</li></ul></li><li>Install Broadcom WiFi drivers: <code>$ sudo dnf install broadcom-wl</code></li><li>Restart the computer: <code>$ sudo reboot</code></li></ol></article></main><hr><footer><small>Made with ♡ for the open web by <a href=https://buchh.org target=_blank>Jonathan Buchholz</a>. This website's source code is on <a href=https://github.com/willstonweb/willston.org target=_blank>GitHub</a>.</small></footer></body></html>
