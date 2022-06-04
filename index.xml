@@ -164,9 +164,9 @@ h3 {
 text-align: left;
 }
 h3:not(:first-of-type), img:not(:first-of-type) {
-margin-top: 150px;
+margin-top: 25px;
 }
-@media only screen and (max-width: 600px) {
+[@media](@media) only screen and (max-width: 600px) {
 h3:not(:first-of-type), img:not(:first-of-type) {
 margin-top: 50px;
 }
@@ -184,16 +184,26 @@ margin-top: 50px;
 &lt;p>&lt;img src="/images/ricardo.jpg" alt="Ricardo picture">&lt;/p>
 &lt;p>&lt;em>&lt;strong>Cofounder&lt;/strong>&lt;/em>&lt;/p>
 &lt;p>Ricardo is a junior at Justice High School and the catalyst for inception of
-Willston Web. He serves as a Rising Leader with
-&lt;a href="https://comunidadva.org" target="_blank">Comunidad&lt;/a>.&lt;/p>
-&lt;h3 id="jonathan-buchholz">Jonathan Buchholz&lt;/h3>
+Willston Web. He serves as a Rising Leader with &lt;a href="https://comunidadva.org" target="_blank">Comunidad&lt;/a> and is eager to
+learn the basics of web development. He sees Willston Web as a great place to
+learn how to &amp;ldquo;to make money in your space, at home, while you take care of your
+brothers or sisters.&amp;rdquo;&lt;/p>
+&lt;h3 style="margin-top: 100px">Jonathan Buchholz&lt;/h3>
 &lt;p>&lt;img src="/images/jonathan.jpg" alt="Jonathan picture">&lt;/p>
 &lt;p>&lt;em>&lt;strong>Cofounder&lt;/strong>&lt;/em>&lt;/p>
 &lt;p>Jonathan is a junior at Thomas Jefferson High School for Science and Technology.
 He has a strong background in computer science (Python and Java) from his time
 at school and taught himself web development when school shut down in 2020,
 which gave him the skills to work his first job. You can find out more about
-Jonathan on &lt;a href="https://buchh.org" target="_blank">his website&lt;/a>.&lt;/p></description><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid></item><item><title>Donate</title><description> &lt;header>
+Jonathan on &lt;a href="https://buchh.org" target="_blank">his website&lt;/a>.&lt;/p>
+&lt;h3 id="catherine-buchholz">Catherine Buchholz&lt;/h3>
+&lt;p>&lt;img src="/images/catherine.jpg" alt="Catherine picture">&lt;/p>
+&lt;p>&lt;em>&lt;strong>Lead Designer&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Catherine is an 8th grader at Mary Ellen Henderson Middle School. She has an eye
+for beautiful design and made with Willston Web logo. If you like our YouTube
+thumbnails or are interested in learning more about her work, visit &lt;a href="https://catherinebuchholz.com" target="_blank">her website&lt;/a>!
+She does commission pieces, but her work for Willston Web is pro
+bono.&lt;/p></description><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid></item><item><title>Donate</title><description> &lt;header>
 &lt;p>You can help us out in two ways:&lt;/p>
 &lt;p>
 &lt;a href="https://secure.squarespace.com/checkout/donate?donatePageId=62545ae65f741415ccb30a06&amp;ss_cvr=c9f1ff42-4c32-47a0-82a7-f943d0465c79%7C1649695405308%7C1649706858547%7C1649711851970%7C4&amp;ss_cvt=1649711851970&amp;websiteId=606e111c9bb1905684a7f967" target="_blank">&lt;b>Donate through Comunidad&lt;/b>&lt;/a>
