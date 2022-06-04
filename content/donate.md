@@ -19,3 +19,42 @@ newer is preferable, donated by Friday, June 10, 2022. Please fill out [this
 form] if you have a laptop you would like to donate.
 
 [this form]: https://forms.gle/cR3RKn4DFWZrqDfNA
+
+We are extremely grateful to have received the following computers so far
+(estimated $3,150 value):
+
+- 1 2013 15-inch Retina MacBook Pro (~$300 value) with the following specs:
+  - 2.4 GHz Intel Quad-Core Core i7 processor
+  - 16 GB RAM
+  - Intel HD Graphics 4000 1536 MB graphics
+- 1 2015 15-inch Retina MacBook Pro (~$600 value) with the following specs:
+  - 2.8 GHz Intel Quad-Core Core i7 processor
+  - 16 GB RAM
+  - Intel Iris Pro 1536 MB graphics
+- 1 2015 15-inch Retina MacBook Pro (~600 value) with the following specs:
+  - 2.8 GHz Intel Quad-Core Core i7 processor
+  - 16 GB RAM
+  - Intel Iris Pro graphics
+- 1 2015 13-inch Retina MacBook Pro (~$500 value) with the following specs:
+  - 2.7 GHz Intel Quad-Core i5 processor
+  - 8 GB RAM
+  - Intel Iris Graphics
+- 1 2015 Dell Latitude E5450 (~250 value) with the following specs:
+  - 2.3 GHz Quad-Core Intel i5 processor
+  - 8 GB RAM
+  - Intel Mesa HD graphics
+- 1 2017 HP Prodesk 400 G3 Desktop Mini (~150 value) with the following specs:
+  - 3.3 GHz Intel Quad-Core i5 graphics
+  - 8 GB RAM
+  - Intel HD Graphics
+  - 500 GB storage
+- 1 2014 Lenovo IdeaPad U430 Touch (~150 value) with the following specs:
+  - 1.7 GHz Intel Quad-Core i5 processor
+  - 8 GB
+  - Intel Mesa HD graphics
+  - 500 GB storage
+- 2 14-inch Lenovo IdeaPad 1 laptops (~$300 value) with the following specs:
+  - 1.1 GHz Intel Celeron processor
+  - 4 GB RAM
+  - Intel UHD graphics
+  - 64 GB storage
