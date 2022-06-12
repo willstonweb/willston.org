@@ -14,14 +14,8 @@ description: Donate to Willston Web
 
 ## Laptops
 
-We are looking for functional laptops made in the past 10 years, but 5 years or
-newer is preferable, donated by Friday, June 10, 2022. Please fill out [this
-form] if you have a laptop you would like to donate.
-
-[this form]: https://forms.gle/cR3RKn4DFWZrqDfNA
-
 We are extremely grateful to have received the following computers so far
-(estimated $3,150 value):
+(estimated $3,250 value):
 
 - 1 2013 15-inch Retina MacBook Pro (~$300 value) with the following specs:
   - 2.4 GHz Intel Quad-Core Core i7 processor
@@ -58,3 +52,8 @@ We are extremely grateful to have received the following computers so far
   - 4 GB RAM
   - Intel UHD graphics
   - 64 GB storage
+- 1 2012 13-inch MacBook Pro (~$100 value)
+  - 2.5 GHz Intel Quad-Core i5 processor
+  - 4 GB RAM
+  - Mesa Intel HD graphics
+  - 500 GB storage
