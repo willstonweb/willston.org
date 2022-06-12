@@ -29,7 +29,7 @@ arriving today) since we ended up having more students than we anticipated (a
 good thing!).
 
 <figure>
-  <img src="/images/2022-06-12-computers.jpg" alt="10 computers stacked up, ready for students">
+  <img src="/images/2022-06-12-computers.jpg" alt="13 computers stacked up, ready for students">
   <figcaption>Computers ready for Monday</figcaption>
 </figure>
 
