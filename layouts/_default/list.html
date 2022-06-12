@@ -6,7 +6,6 @@
     <h1>{{ $.Title }}</h1>
     </header>
     {{ $.Content }}
-    <small><a href="/rss.xml">RSS feed</a></small>
     {{ range .Pages }}
     <p style="margin-bottom: 0">{{.Date.Format "January 2, 2006"}}</p>
     <p style="margin-top: 0"><a href="{{.RelPermalink}}">{{.Title}}</a>: {{ .Description }}</p>
