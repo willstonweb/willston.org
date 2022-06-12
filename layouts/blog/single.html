@@ -11,6 +11,13 @@
     <article>
     {{.Content}}
     </article>
+    <form action="https://buttondown.email/api/emails/embed-subscribe/willstonweb" method="post" class="buttondown">
+      <label for="bd-email">Subscribe by email!</label>
+      <p>Don't worry—just updates. No nerdy posts ;)</p>
+      <input type="email" name="email" id="bd-email" />
+      <input type="submit" value="Subscribe"/>
+      <small><a href="/rss.xml">RSS feed</a></small>
+    </form>
     </main>
     {{ partial "footer.html" . }}
 </body>

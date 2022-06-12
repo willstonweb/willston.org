@@ -10,7 +10,6 @@ description: Donate to Willston Web
     </p>
   </header>
   <p>Comunidad is a 501(c)(3), so giving through them is tax deductible.</p>
-  <p>We are trying to raise <mark>$3,000</mark>!</p>
 
 ## Laptops
 
