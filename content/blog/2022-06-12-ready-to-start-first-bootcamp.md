@@ -16,7 +16,7 @@ do not have words to express how grateful I am for the generosity shown to
 partnership, we would not have a physical space for the bootcamp, students, or
 the ability to receive donations. [Restoration Anglican Church] has shown up in
 ways I never could have imagined. They have provided tremendous support in
-getting the word out about Willston Web. Most of our laptops monetary
+getting the word out about Willston Web. Most of our laptops, monetary
 contributions, and speakers have come through members of Restoration. I could
 not ask to be a part of a better church.
 
