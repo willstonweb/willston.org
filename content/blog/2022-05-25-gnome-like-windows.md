@@ -1,7 +1,7 @@
 ---
 title: Making Fedora Linux Look a Little More Like Windows
 date: 2022-05-25
-description: Using GNOME Tweaks and GNOME Shell Extensions With the Dash to Panel Plugin
+description: Using GNOME Tweaks and GNOME Shell Extensions with the Dash to Panel plugin
 author: Jonathan Buchholz
 url: gnome-like-windows
 ---
