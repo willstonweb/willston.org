@@ -32,16 +32,16 @@ We are extremely grateful to have received the following computers so far
   - 2.7 GHz Intel Quad-Core i5 processor
   - 8 GB RAM
   - Intel Iris Graphics
-- 1 2015 Dell Latitude E5450 (~250 value) with the following specs:
+- 1 2015 Dell Latitude E5450 (~$250 value) with the following specs:
   - 2.3 GHz Quad-Core Intel i5 processor
   - 8 GB RAM
   - Intel Mesa HD graphics
-- 1 2017 HP Prodesk 400 G3 Desktop Mini (~150 value) with the following specs:
+- 1 2017 HP Prodesk 400 G3 Desktop Mini (~$150 value) with the following specs:
   - 3.3 GHz Intel Quad-Core i5 graphics
   - 8 GB RAM
   - Intel HD Graphics
   - 500 GB storage
-- 1 2014 Lenovo IdeaPad U430 Touch (~150 value) with the following specs:
+- 1 2014 Lenovo IdeaPad U430 Touch (~$150 value) with the following specs:
   - 1.7 GHz Intel Quad-Core i5 processor
   - 8 GB
   - Intel Mesa HD graphics
