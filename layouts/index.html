@@ -11,7 +11,7 @@
   </head>
   <body>
     <header>
-    {{ partial "nav.html" }}
+    {{ partial "nav.html" . }}
       <h1 class="gradient">Learn web development at the Willston Center June 13-17, 2022!</h1>
       <p>We're teaching web development to high school students and <mark>giving away computers</mark> to students who have demonstrated a desire to learn.</p>
       <figure>
@@ -74,6 +74,6 @@
       <p>If you have any questions, feel free to contact <a href="mailto:jonathan@willston.org">jonathan@willston.org</a>.</p>
     </section>
     </main>
-    {{ partial "footer.html" }}
+    {{ partial "footer.html" . }}
   </body>
 </html>

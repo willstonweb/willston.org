@@ -1,17 +1,17 @@
-{{ partial "head.html" }}
+{{ partial "head.html" . }}
 <body>
     <main>
     <header>
-    {{ partial "nav.html" }}
+    {{ partial "nav.html" . }}
     <h1>{{ $.Title }}</h1>
     </header>
     {{ $.Content }}
-    {{ partial "subscribe.html" }}
+    {{ partial "subscribe.html" . }}
     {{ range .Pages }}
-    <p style="margin-bottom: 0">{{.Date.Format "January 2, 2006"}}</p>
-    <p style="margin-top: 0"><a href="{{.RelPermalink}}">{{.Title}}</a>: {{ .Description }}</p>
+    <p style="margin-bottom: 0">{{ .Date.Format "January 2, 2006" }}</p>
+    <p style="margin-top: 0"><a href="{{.RelPermalink}}">{{ .Title }}</a>: {{ .Description }}</p>
     {{ end }}
     </main>
-    {{ partial "footer.html" }}
+    {{ partial "footer.html" . }}
 </body>
 </html>

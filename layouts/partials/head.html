@@ -3,8 +3,12 @@
 <head>
   <meta charset=utf-8>
   <meta name=viewport content="width=device-width, initial-scale=1">
+  {{ if .IsHome }}
+  <title>Willston Web</title>
+  {{ else }}
   <title>{{ .Title }} | Willston Web</title>
-  <meta name=description content="{{$.Description}}">
+  {{ end }}
+  <meta name=description content="{{ $.Description }}">
   <link rel=alternate type=application/rss+xml title="Willston Web" href="/rss.xml">
   <link rel="stylesheet" href="/style.css">
   <script async defer data-website-id="65c9c691-3f9d-4aa6-bc08-574c2005d978" src="https://umami.buchh.cloud/script.js" data-domains="willston.org"></script>

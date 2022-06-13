@@ -1,8 +1,8 @@
-{{ partial "head.html" }}
+{{ partial "head.html" . }}
 <body>
-    {{ partial "nav.html" }}
+    {{ partial "nav.html" . }}
     <h1>Your page couldn't be found (Error 404)</h1>
     <p>Try going <a href="/">home</a>?</p>
-    {{ partial "footer.html" }}
+    {{ partial "footer.html" . }}
 </body>
 </html>
