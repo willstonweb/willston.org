@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>First Day Complete</title><description>&lt;p>Today was the first day of the Willston Web Coding Bootcamp and it was a great
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>willston.org</title><link>https://willston.org</link><description>willston.org RSS feed</description><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Day 1 Status Update</title><description>&lt;p>Today was the first day of the Willston Web Coding Bootcamp and it was a great
+success! Thank you to Ms. Maralee, Patrick, Rebecca, Ricardo, and my mom for
+arriving early to help set up. All 13 students we were expecting showed up and
+were very interested in learning. They stayed on task and were productive with
+their time. Many of them are eager to continue working and wanted to bring their
+laptops home so they could keep going through curriculum. The prospect of a
+premium laptop is quite the motivator! One student has limited English
+proficiency, but was still able to follow along with brief explanations in
+Spanish when needed.&lt;/p>
+&lt;p>Students learned how to use a new operating system (&lt;a href="https://pop.system76.com" target="_blank">Pop!_OS&lt;/a>), created HTML
+document structure out of paper, and completed steps 1-6 at a minimum of
+&lt;a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" target="_blank">freeCodeCamp&amp;#39;s (New) Responsive Web Design Certificate&lt;/a>, where they learned
+about header and paragraph tags, comments, SEO (search engine optimization), and
+indentation. Here is a &lt;a href="/curriculum/bootcamp/1">link to today&amp;#39;s lesson plan&lt;/a> and below are photos from
+our first day:&lt;/p>
+&lt;figure>
+&lt;img src="/images/2022-06-13-1.jpg" alt="Wilson looks to the board for instruction">
+&lt;figcaption>Wilson looks to the board for instruction&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+&lt;img src="/images/2022-06-13-2.jpg" alt="Janet points out something to Juan">
+&lt;figcaption>Janet points out something to Juan&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+&lt;img src="/images/2022-06-13-3.jpg" alt="Juan explains a concept to Janet">
+&lt;figcaption>Juan explains a concept to Janet&lt;/figcaption>
+&lt;figure>
+&lt;img src="/images/2022-06-13-4.jpg" alt="Jonathan (student) works with Patrick">
+&lt;figcaption>Patrick works with Jonathan (student), who is next to Mark&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+&lt;img src="/images/2022-06-13-5.jpg" alt="The team pauses for a picture after setting up for the day">
+&lt;figcaption>The team pauses for a picture after setting up for the day&lt;/figcaption>
+&lt;/figure></description><link>/first-day/</link><pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate><guid>/first-day/</guid></item><item><title>First Day Complete</title><description>&lt;p>Today was the first day of the Willston Web Coding Bootcamp and it was a great
 success! Thank you to Ms. Maralee, Patrick, Rebecca, Ricardo, and my mom for
 showing up early to help set up. All 13 students we were expecting showed up and
 were very interested in learning. They stayed on task and were productive with
