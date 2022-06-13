@@ -1,14 +1,9 @@
-<!DOCTYPE HTML>
-<html lang=en>
+<!DOCTYPE html>
 <html lang=en>
 <head>
   <meta charset=utf-8>
   <meta name=viewport content="width=device-width, initial-scale=1">
-  {{ if .IsHome }}
-  <title>Willston Web</title>
-  {{ else }}
-  <title>{{ $.Title }} | Willston Web</title>
-  {{ end }}
+  <title>{{ .Title }} | Willston Web</title>
   <meta name=description content="{{$.Description}}">
   <link rel=alternate type=application/rss+xml title="Willston Web" href="/rss.xml">
   <link rel="stylesheet" href="/style.css">
