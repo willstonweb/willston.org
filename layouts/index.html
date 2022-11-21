@@ -13,21 +13,21 @@
     <main>
       <header>
       {{ partial "nav.html" . }}
-        <h1 class="gradient">Learn web development at the Willston Center June 13-17, 2022!</h1>
-        <p>We're teaching web development to high school students and <mark>giving away computers</mark> to students who have demonstrated a desire to learn.</p>
+        <h1 class="gradient">We taught web development at the Willston Multicultural Center summer 2022!</h1>
+        <p><mark>Read our end-of-summer update below!</mark></p>
         <figure>
           <img src="images/comunidad.png" alt="Comunidad logo" width="300">
           <figcaption>As part of <a href="https://www.comunidadva.org/willstonweb" target="_blank">Comunidad</a>'s Rising Leaders Program</figcaption>
         </figure>
         <br>
         <p>
-          <a href="/donate"><b>Donate</b></a>
+          <a href="/end-of-summer-update/"><b>Read our end-of-summer update!</b></a>
         </p>
       </header>
       <hr>
       <section>
         <header>
-          <h2>Recent Posts</h2>
+          <h2><a href="/blog">Recent Posts</a></h2>
         </header>
         {{ range ( where .Site.RegularPages "Type" "blog" | first 3 ) }}
         <p style="margin-bottom: 0">{{ .Date.Format "January 2, 2006" }}</p>
