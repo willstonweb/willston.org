@@ -352,8 +352,8 @@ button:hover {
 a b,
 a strong,
 button {
-    background-color: var(--color-link);
-    border: 2px solid var(--color-link);
+    background-color: var(--color-secondary);
+    border: 2px solid var(--color-secondary);
     color: var(--color-bg);
 }
 
@@ -375,7 +375,6 @@ figure {
     margin: 0;
     padding: 0;
     height: auto;
-    padding-bottom: 1.5em;
 }
 
 figure img {
